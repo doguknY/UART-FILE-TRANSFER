@@ -2,7 +2,7 @@
 
 Wired and wireless file transfer via UART in STM32 based microcontroller.
 
-The aim of this project is to perform the file transfer task in the model satellite system. Xbee modules with UART interface were used for file transfer. In the system, TEA is the ground station computer and LENNA is the file transfer computer on the satellite.
+The aim of this project is to perform the file transfer task in the model satellite system we have developed as Yıldız Rocket Team. Xbee modules with UART interface were used for file transfer. In the system, TEA is the ground station computer and LENNA is the file transfer computer on the satellite.
 
 TEA features:
 - Receive telemetry from the main flight control computer and send commands
