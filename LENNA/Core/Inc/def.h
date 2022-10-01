@@ -1,0 +1,25 @@
+#ifndef DEF_H
+#define DEF_H
+
+
+// #define POINTER_SIZE_PC 10240
+
+
+#define RECEIVE_SUCCESSFUL 0x12
+#define RECEIVE_FAILED 0x13
+
+
+
+#define NAME_OF_RECEIVED_FILE_FROM_GROUND "received_video_from_ground.mp4"
+#define NAME_OF_TRANSMITTED_FILE_TO_GROUND NAME_OF_RECEIVED_FILE_FROM_GROUND
+
+
+
+enum transmissionState {
+    RECEIVING_FROM_GROUND = 1,
+    SENDING_TO_GROUND,
+    TRANSMISSION_COMPLETED
+};
+
+
+#endif 
