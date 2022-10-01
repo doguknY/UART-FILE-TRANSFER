@@ -14,5 +14,5 @@ LENNA features:
 
 ## Demo
 
-linkedin hesabi
+
 
